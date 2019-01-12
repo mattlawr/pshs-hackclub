@@ -1,4 +1,4 @@
-## Palm Springs HS Hack Club
+## Welcome
 
 This page is a work in progress! Here you will find our communication resources.
 
