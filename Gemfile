@@ -1,1 +1,2 @@
-gem "jekyll-theme-cayman"
+source 'https://rubygems.org'
+gem "minima"
