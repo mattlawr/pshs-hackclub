@@ -2,9 +2,13 @@
 
 This page is a work in progress! Here you will find our communication resources.
 
+Tools: [repl.it](https://repl.it/) [GitHub](https://github.com/)
+
 ### Meetings
 
-Meetings are held afterschool every Friday, unless otherwise announced in our **Remind** found below!
+We will meet in **room 501 every Friday, afterschool**, unless otherwise announced in our **Remind** found below!
+
+Sessions usually run from 3:00-4:30PM to allow for steady progress.
 
 ### Hack Club Remind
 
