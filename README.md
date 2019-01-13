@@ -2,7 +2,11 @@
 
 This page is a work in progress! Here you will find our communication resources.
 
-Tools: [repl.it](https://repl.it/) [GitHub](https://github.com/)
+Tools:
+
+- [repl.it](https://repl.it/)
+
+- [GitHub](https://github.com/)
 
 ### Meetings
 
