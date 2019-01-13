@@ -1,6 +1,10 @@
 ## Welcome
 
-This page is a work in progress! Here you will find our communication resources.
+PSHS Hack Club is a high school club working to show beginners that they possess the means to create with code.
+
+[**About**](https://pshs.hackclub.com/about)
+
+On this site you will find our communication resources and tools. 
 
 Tools:
 
