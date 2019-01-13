@@ -23,9 +23,11 @@
   <body>
 
     <header class="page-header" role="banner">
+		<a href="https://hackclub.com/"><img style="position: absolute; top: 10px; left: 0; border: 0; width: 230px; z-index: 999" src="https://hackclub.com/banners/2019.svg" alt="Hack Club"/></a>
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+	  <img src="logo.png" alt="Hack Club" style="width:300px;">
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-	  <a href="https://hackclub.com/workshops/" class="btn">Workshops</a>
+	  <a href="https://hackclub.com/workshops/" class="btn">Club Workshops</a>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
