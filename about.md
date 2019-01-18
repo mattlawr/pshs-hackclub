@@ -5,8 +5,8 @@ We are part of [Hack Club](https://hackclub.com/), a larger network of school cl
 
 ### Leadership
 
-- Matthew Lawrence, Co-Founder and Website Designer
+- Matthew Lawrence, Co-Founder
 
 - Bethany Hatsios, Co-Founder
 
-(Other positions are open for dedicated members)
+*(Other positions will be considered for dedicated members)*
