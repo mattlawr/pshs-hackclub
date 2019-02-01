@@ -1,10 +1,10 @@
 ## Connect
 
-There are many ways for you to stay updated and involved with the club as a member! The following is listed by order of importance.
+There are many ways for you to stay updated and involved with the club as a member, listed below.
 
-### Remind
+### **Remind**
 
-Sign up for our remind by texting ***@pshshack* to 81010**, or by using that **@** code in the Remind app.
+Sign up for our remind by texting ***@pshshack*** to **81010**, or by using that **@** code in the Remind app.
 
 This is the best way to keep up with meetings and announcements!
 

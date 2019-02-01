@@ -6,7 +6,7 @@ PSHS Hack Club is a [**student-run**](https://pshs.hackclub.com/about) high scho
 
 ---
 
-### What does "HACK" Club mean?
+### What does *Hack* Club mean?
 
 When we say *hack*, we're talking about *life hacking*, but with computers.
 Hacking is *creative problem solving* of all kinds, and it often includes code.
