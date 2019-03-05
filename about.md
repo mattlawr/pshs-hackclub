@@ -17,6 +17,4 @@ Since its inception in 2014, Hack Club has helped start high school coding clubs
 
 ### Leadership
 
-- Matthew Lawrence, Co-Founder
-
-- Bethany Hatsios, Co-Founder
+- Matthew Lawrence; Co-Founder, President
